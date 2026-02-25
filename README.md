@@ -31,6 +31,7 @@
 
 - [ ] Add local database (SQLite) for better performance with large vocabularies
 - [ ] Multi-language support (currently Ukrainian only)
+- [ ] Optimize translation speed and accuracy with better API usage
 - [ ] Context capture (save sentence/paragraph along with word) or make screenshot around selected word to process.
 - [ ] Cloud sync for vocabulary backup
 - [ ] Word statistics and learning analytics
