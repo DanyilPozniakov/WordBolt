@@ -37,3 +37,7 @@
 - [ ] Custom word lists and categories
 - [ ] macOS and Linux support
 
+
+## Collaboration 
+- If you're interested in collaboration or have any questions, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/danyil-pozniakov/) or open an issue on GitHub.
+
