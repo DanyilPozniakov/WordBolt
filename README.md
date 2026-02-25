@@ -1,5 +1,7 @@
 # WordBolt
 
+- To make it easier for everyone, this build includes a pre-embedded API key.
+
 ## 🎯 Key Features
 
 ### 🔍 **Smart Text Capture & Translation**
