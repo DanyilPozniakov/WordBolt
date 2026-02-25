@@ -3,8 +3,8 @@
 ## 🎯 Key Features
 
 ### 🔍 **Smart Text Capture & Translation**
-- **Real-time Selection Detection**: Built with low-level hooks to capture text selection from any application (browser, PDF reader, documents)
-  - **Zero-Friction Workflow**: Simply select a word anywhere on screen - WordBolt automatically detects and offers instant translation.Translation appears in a right-bottom corner of screen.
+- **Real-time Selection Detection**: Capture text selection from any application (browser, PDF reader, documents)
+- **Zero-Friction Workflow**: Simply select a word anywhere on screen - WordBolt automatically detects and offers instant translation.Translation appears in a right-bottom corner of screen.
 - **Clipboard Protection**: Advanced clipboard management preserves your original clipboard content during text capture
 - **Multiple-Choice Quiz**: Select the correct translation from 3 options
 - **JSON-Based Database**: Fast, lightweight local storage for complete privacy
