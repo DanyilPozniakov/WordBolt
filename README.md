@@ -32,6 +32,8 @@
 ## 🛣️ Roadmap
 
 - [ ] Add local database (SQLite) for better performance with large vocabularies
+- [ ] Support for multiple translations per word (handling polysemy and different meanings).
+- [ ] Extended usage examples and real-world context.
 - [ ] Multi-language support (currently Ukrainian only)
 - [ ] Context capture (save sentence/paragraph along with word) or make screenshot around selected word to process.
 - [ ] Cloud sync for vocabulary backup
