@@ -39,3 +39,5 @@
 - [ ] Custom word lists and categories
 - [ ] macOS and Linux support
 
+
+Open to collaboration: https://www.linkedin.com/in/danyil-pozniakov/
