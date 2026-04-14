@@ -32,9 +32,9 @@
 ## 🛣️ Roadmap
 
 - [ ] Add local database (SQLite) for better performance with large vocabularies
-- [ ] Support for multiple translations per word (different meanings).
+- ✅ Support for multiple translations per word (different meanings).
 - [ ] Extended usage examples and real-world context.
-- [ ] Multi-language support (currently Ukrainian only)
+- ✅ Multi-language support.
 - [ ] Context capture (save sentence/paragraph along with word) or make screenshot around selected word to process.
 - [ ] Cloud sync for vocabulary backup
 - [ ] Word statistics and learning analytics
